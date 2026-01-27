@@ -1,3 +1,5 @@
-a = 5
-b = 6
-print(b -a)
+s=  input()
+if s.isdigit():
+    print("int")
+else:
+    print("str")
