@@ -1,0 +1,4 @@
+﻿name,email,birthday,phone,phone_type,group
+Alice,alice@gmail.com,1990-01-15,+77001112233,mobile,Friend
+Bob,bob@work.com,1985-05-20,+77002223344,work,Work
+Mom,mom@mail.com,1965-03-10,+77003334455,home,Family
